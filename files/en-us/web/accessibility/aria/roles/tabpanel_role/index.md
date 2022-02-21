@@ -9,6 +9,9 @@ tags:
   - ARIA widget
   - Reference
   - NeedsContent
+spec-urls: >-
+  https://w3c.github.io/aria/#tabpanel,
+  https://w3c.github.io/aria-practices/#tabpanel
 ---
 {{draft}}
 
@@ -53,10 +56,7 @@ Any additional benefits this feature has for non-typical screen reader users, li
 
 ## Specifications
 
-| Specification                                                                        | Status                                           |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| {{SpecName("ARIA","#tabpanel","tabpanel")}}                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#tabpanel","tabpanel")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## Precedence order
 

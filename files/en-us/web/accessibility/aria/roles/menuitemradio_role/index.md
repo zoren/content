@@ -8,6 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - NeedsContent
+spec-urls: >-
+  https://w3c.github.io/aria/#menuitemradio,
+  https://w3c.github.io/aria-practices/#menu
 ---
 
 {{draft}}
@@ -30,10 +33,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#menuitemradio","ARIA: menuitemradio role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#menu","Menu or Menu bar")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See Also
 

@@ -10,6 +10,9 @@ tags:
   - Treegrid role
   - composite widget role
   - NeedsContent
+spec-urls: >-
+  https://w3c.github.io/aria/#treegrid,
+  https://w3c.github.io/aria-practices/#treegrid
 ---
 {{draft}}
 
@@ -33,10 +36,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#treegrid","ARIA: treegrid role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#treegrid","treegrid role")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See Also
 

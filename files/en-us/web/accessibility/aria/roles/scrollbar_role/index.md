@@ -8,6 +8,7 @@ tags:
   - Reference
   - ARIA roles
   - NeedsContent
+spec-urls: https://w3c.github.io/aria/#scrollbar
 ---
 
 {{draft}}
@@ -30,9 +31,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#scrollbar","ARIA: scrollbar role")}}                                             | {{Spec2('ARIA')}}                         |
+{{Specifications}}
 
 ## See Also
 

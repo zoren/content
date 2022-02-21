@@ -9,6 +9,9 @@ tags:
   - ARIA roles
   - document structure role
   - deprecated
+spec-urls: >-
+  https://w3c.github.io/aria/#directory,
+  https://w3c.github.io/aria-practices/#aria_lh_directory_role
 ---
 
 The `directory` role was for a list of references to members of a group, such as a static table of contents.
@@ -24,10 +27,7 @@ Use the [`list`](/en-US/docs/Web/Accessibility/ARIA/Roles/list_role) role instea
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#directory","ARIA: directory role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#aria_lh_directory_role","directory role")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See Also
 

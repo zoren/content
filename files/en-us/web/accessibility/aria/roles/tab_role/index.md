@@ -7,6 +7,9 @@ tags:
   - ARIA Tab
   - ARIA widget
   - Reference
+spec-urls: >-
+  https://w3c.github.io/aria/#tab,
+  https://w3c.github.io/aria-practices/#tabpanel
 ---
 The ARIA `tab` role indicates an interactive element inside a `tablist` that, when activated, displays its associated `tabpanel`.
 
@@ -196,10 +199,7 @@ Screenreader support is still to be determined. Visit https://github.com/mdn/con
 
 ## Specifications
 
-| Specification                                                                    | Status                                           |
-| -------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#tab","tab")}}                                     | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#tabpanel","tabs")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See also
 

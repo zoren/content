@@ -9,6 +9,7 @@ tags:
   - Reference
   - Role
   - form
+spec-urls: https://w3c.github.io/aria/#form, https://w3c.github.io/aria-practices/#form
 ---
 The `form` role can be used to identify a group of elements on a page that provide equivalent functionality to an HTML form.
 
@@ -111,10 +112,7 @@ Using the {{HTMLElement('form')}} element  will automatically communicate a sect
 
 ## Specifications
 
-| Specification                                                                    | Status                                           |
-| -------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#form","ARIA Form Role")}}                     | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#form","Role Form")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See also
 

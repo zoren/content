@@ -10,6 +10,9 @@ tags:
   - Tree role
   - composite widget role
   - NeedsContent
+spec-urls: >-
+  https://w3c.github.io/aria/#tree,
+  https://w3c.github.io/aria-practices/#TreeView
 ---
 {{draft}}
 
@@ -32,10 +35,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#tree","ARIA: tree role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#TreeView","tree view")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See Also
 

@@ -10,6 +10,7 @@ tags:
   - Menu role
   - composite widget role
   - NeedsContent
+spec-urls: https://w3c.github.io/aria/#menu, https://w3c.github.io/aria-practices/#menu
 ---
 {{draft}}
 <!--
@@ -32,10 +33,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#menu","ARIA: menu role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#menu","menu role")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See Also
 

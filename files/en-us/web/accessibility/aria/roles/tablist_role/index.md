@@ -10,6 +10,7 @@ tags:
   - tablist role
   - composite widget role
   - NeedsContent
+spec-urls: https://w3c.github.io/aria/#tablist
 ---
 {{draft}}
 
@@ -33,9 +34,7 @@ tags:
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#tablist","ARIA: tablist role")}}                                             | {{Spec2('ARIA')}}                         |
+{{Specifications}}
 
 ## See Also
 

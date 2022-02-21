@@ -9,6 +9,9 @@ tags:
   - ARIA roles
   - composite widget role
   - NeedsContent
+spec-urls: >-
+  https://w3c.github.io/aria/#combobox,
+  https://w3c.github.io/aria-practices/#aria_lh_combobox_role
 ---
 
 {{draft}}
@@ -74,10 +77,7 @@ A combobox is an input that controls another element, such as a listbox or grid,
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#combobox","ARIA: combobox role")}}                                             | {{Spec2('ARIA')}}                         |
-| {{SpecName("ARIA Authoring Practices 1.2","#aria_lh_combobox_role","combobox role")}} | {{Spec2('ARIA Authoring Practices 1.2')}} |
+{{Specifications}}
 
 ## See also
 

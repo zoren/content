@@ -10,6 +10,7 @@ tags:
   - Abstract Role
   - ARIA structure
   - Reference
+spec-urls: https://w3c.github.io/aria/#structure
 ---
 
 The `structure` role is for document structural elements.
@@ -30,9 +31,7 @@ Do not use `role="structure"`. Do use HTML and subclass structure roles.
 
 ## Specifications
 
-| Specification                                                                                                                    | Status                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| {{SpecName("ARIA","#structure","ARIA: structure role")}}                                             | {{Spec2('ARIA')}}                         |
+{{Specifications}}
 
 ## See Also
 
@@ -43,20 +42,12 @@ Do not use `role="structure"`. Do use HTML and subclass structure roles.
 - [ARIA: `section` role](/en-US/docs/Web/Accessibility/ARIA/Roles/section_role)
 - [ARIA: `sectionhead` role](/en-US/docs/Web/Accessibility/ARIA/Roles/sectionhead_role)
 
-<div class="hidden">
-<!-- these shouldn't be used so we shouldn't link to them 
-- [ARIA: `application` role](/en-US/docs/Web/Accessibility/ARIA/Roles/application_role)
-- [ARIA: `document` role](/en-US/docs/Web/Accessibility/ARIA/
-"Roles/document_role)
-- [ARIA: `rowgroup` role](/en-US/docs/Web/Accessibility/ARIA/Roles/rowgroup_role)
-- [ARIA: `separator` role](/en-US/docs/Web/Accessibility/ARIA/Roles/separator_role)
--->]
-</div>
-
-<section id="Quick_links">
-
-1. [**WAI-ARIA roles**](/en-US/docs/Web/Accessibility/ARIA/Roles)
-
-    {{ListSubpagesForSidebar("/en-US/docs/Web/Accessibility/ARIA/Roles")}}
+<div class="hidden"><!-- these shouldn't be used so we shouldn't link to them 
+    - [ARIA: `application` role](/en-US/docs/Web/Accessibility/ARIA/Roles/application_role)
+    - [ARIA: `document` role](/en-US/docs/Web/Accessibility/ARIA/
+    "Roles/document_role)
+    - [ARIA: `rowgroup` role](/en-US/docs/Web/Accessibility/ARIA/Roles/rowgroup_role)
+    - [ARIA: `separator` role](/en-US/docs/Web/Accessibility/ARIA/Roles/separator_role)
+    -->]</div>
 
 </section>
