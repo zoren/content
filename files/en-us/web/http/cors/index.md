@@ -13,6 +13,7 @@ tags:
   - Security
   - XMLHttpRequest
   - l10n:priority
+spec-urls: https://fetch.spec.whatwg.org/#cors-protocol
 ---
 {{HTTPSidebar}}
 
@@ -482,9 +483,7 @@ Examples of this usage can be [found above](#preflighted_requests).
 
 ## Specifications
 
-| Specification                                                    | Status                   | Comment                                                                          |
-| ---------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------- |
-| {{SpecName('Fetch', '#cors-protocol', 'CORS')}} | {{Spec2('Fetch')}} | New definition; supplants [W3C CORS](https://www.w3.org/TR/cors/) specification. |
+{{Specifications}}
 
 ## Browser compatibility
 

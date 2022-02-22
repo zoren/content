@@ -51,9 +51,7 @@ Set-Cookie2: <cookie-name>=<cookie-value>, <cookie-name>=<cookie-value>, ...
 
 ## Specifications
 
-| Specification                            | Title                                                                                        |
-| ---------------------------------------- | -------------------------------------------------------------------------------------------- |
-| {{RFC("2965", "Set-Cookie2")}} | Historic specification of HTTP State Management Mechanism, obsoleted by {{RFC("6265")}} |
+{{Specifications}}
 
 ## Browser compatibility
 

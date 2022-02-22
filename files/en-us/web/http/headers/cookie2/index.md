@@ -34,9 +34,7 @@ Cookie2: $Version="1"
 
 ## Specifications
 
-| Specification                        | Title                                                                                        |
-| ------------------------------------ | -------------------------------------------------------------------------------------------- |
-| {{RFC("2965", "Cookie2")}} | Historic specification of HTTP State Management Mechanism, obsoleted by {{RFC("6265")}} |
+{{Specifications}}
 
 ## Browser compatibility
 

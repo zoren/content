@@ -5,6 +5,7 @@ tags:
   - HTTP
   - Reference
   - Security
+spec-urls: https://fetch.spec.whatwg.org/#cross-origin-resource-policy-header
 ---
 {{HTTPSidebar}}
 
@@ -59,9 +60,7 @@ In response, Chromium shipped [Cross-Origin Read Blocking](https://fetch.spec.wh
 
 ## Specifications
 
-| Specification                                                                    | Status                                                                       | Comment            |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------ |
-| {{SpecName("Fetch", '#cross-origin-resource-policy-header')}} | {{Spec2("Fetch", '#cross-origin-resource-policy-header')}} | Initial definition |
+{{Specifications}}
 
 ## See also
 

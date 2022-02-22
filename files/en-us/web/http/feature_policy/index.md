@@ -13,6 +13,8 @@ tags:
   - delegation
   - header
   - permission
+spec-urls: >-
+  https://w3c.github.io/webappsec-permissions-policy/#feature-policy-http-header-field
 ---
 {{HTTPSidebar}}
 
@@ -122,9 +124,7 @@ The features include (see [Features list](/en-US/docs/Web/HTTP/Headers/Feature-P
 
 ## Specifications
 
-| Specification                                                                                                    | Status                               | Comment                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{SpecName("Feature Policy","#feature-policy-http-header-field","Feature-Policy")}} | {{Spec2("Feature Policy")}} | Initial definition. Defines the {{httpheader("Feature-Policy")}} header. Directives are defined in the specs for the features they control. See individual directive pages for details. |
+{{Specifications}}
 
 ## Browser compatibility
 

@@ -8,6 +8,7 @@ tags:
   - HTTP
   - Deprecated
   - Security
+spec-urls: https://www.rfc-editor.org/rfc/7469#section-2.1
 ---
 {{HTTPSidebar}}{{deprecated_header}}
 
@@ -138,9 +139,7 @@ Add the following line to the Web.config file to send the `Public-Key-Pins` head
 
 ## Specifications
 
-| Specification                                            | Title                                 |
-| -------------------------------------------------------- | ------------------------------------- |
-| {{RFC("7469", "Public-Key-Pins", "2.1")}} | Public Key Pinning Extension for HTTP |
+{{Specifications}}
 
 ## Browser compatibility
 
