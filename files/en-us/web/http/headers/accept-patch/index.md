@@ -4,7 +4,7 @@ slug: Web/HTTP/Headers/Accept-Patch
 tags:
   - HTTP
   - Reference
-spec-urls: https://www.rfc-editor.org/rfc/5789#section-3.1
+spec-urls: https://www.rfc-editor.org/rfc/rfc5789#section-3.1
 ---
 {{HTTPSidebar}}
 

@@ -7,7 +7,7 @@ tags:
   - Reference
   - Server error
   - Status code
-spec-urls: https://www.rfc-editor.org/rfc/6585#section-6
+spec-urls: https://www.rfc-editor.org/rfc/rfc6585#section-6
 ---
 {{HTTPSidebar}}
 

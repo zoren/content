@@ -6,7 +6,7 @@ tags:
   - HTTP
   - Server error
   - Status code
-spec-urls: https://www.rfc-editor.org/rfc/5842#section-7.2
+spec-urls: https://www.rfc-editor.org/rfc/rfc5842#section-7.2
 ---
 {{HTTPSidebar}}
 

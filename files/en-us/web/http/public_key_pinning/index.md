@@ -8,7 +8,7 @@ tags:
   - HTTP
   - Deprecated
   - Security
-spec-urls: https://www.rfc-editor.org/rfc/7469#section-2.1
+spec-urls: https://www.rfc-editor.org/rfc/rfc7469#section-2.1
 ---
 {{HTTPSidebar}}{{deprecated_header}}
 

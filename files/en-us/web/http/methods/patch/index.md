@@ -5,7 +5,7 @@ tags:
   - HTTP
   - Reference
   - Request method
-spec-urls: https://www.rfc-editor.org/rfc/5789
+spec-urls: https://www.rfc-editor.org/rfc/rfc5789
 ---
 {{HTTPSidebar}}
 
