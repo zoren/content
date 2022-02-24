@@ -13,8 +13,7 @@ tags:
   - delegation
   - header
   - permission
-spec-urls: >-
-  https://w3c.github.io/webappsec-permissions-policy/#feature-policy-http-header-field
+browser-compat: http.headers.Feature-Policy
 ---
 {{HTTPSidebar}}
 
@@ -128,7 +127,7 @@ The features include (see [Features list](/en-US/docs/Web/HTTP/Headers/Feature-P
 
 ## Browser compatibility
 
-{{Compat("http.headers.Feature-Policy")}}
+{{Compat}}
 
 ## See also
 

@@ -8,7 +8,7 @@ tags:
   - HTTP
   - Deprecated
   - Security
-spec-urls: https://www.rfc-editor.org/rfc/rfc7469#section-2.1
+browser-compat: http.headers.Public-Key-Pins
 ---
 {{HTTPSidebar}}{{deprecated_header}}
 
@@ -143,7 +143,7 @@ Add the following line to the Web.config file to send the `Public-Key-Pins` head
 
 ## Browser compatibility
 
-{{Compat("http.headers.Public-Key-Pins")}}
+{{Compat}}
 
 ## See also
 

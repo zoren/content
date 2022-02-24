@@ -5,7 +5,7 @@ tags:
   - HTTP
   - Reference
   - Security
-spec-urls: https://fetch.spec.whatwg.org/#cross-origin-resource-policy-header
+browser-compat: http.headers.Cross-Origin-Resource-Policy
 ---
 {{HTTPSidebar}}
 
@@ -54,13 +54,13 @@ In response, Chromium shipped [Cross-Origin Read Blocking](https://fetch.spec.wh
 
 `Cross-Origin-Resource-Policy` is an opt-in response header which can protect _any_ resource; there is no need for browsers to sniff MIME types.
 
-## Browser compatibility
-
-{{Compat("http.headers.Cross-Origin-Resource-Policy")}}
-
 ## Specifications
 
 {{Specifications}}
+
+## Browser compatibility
+
+{{Compat}}
 
 ## See also
 
