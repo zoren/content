@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - document structure role
-spec-urls: >-
-  https://w3c.github.io/aria/#columnheader,
-  https://w3c.github.io/aria-practices/#table
+spec-urls:
+  - https://w3c.github.io/aria/#columnheader
+  - https://w3c.github.io/aria-practices/#table
 ---
 
 

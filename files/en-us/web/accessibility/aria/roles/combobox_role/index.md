@@ -9,9 +9,9 @@ tags:
   - ARIA roles
   - composite widget role
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#combobox,
-  https://w3c.github.io/aria-practices/#aria_lh_combobox_role
+spec-urls:
+  - https://w3c.github.io/aria/#combobox
+  - https://w3c.github.io/aria-practices/#aria_lh_combobox_role
 ---
 
 {{draft}}

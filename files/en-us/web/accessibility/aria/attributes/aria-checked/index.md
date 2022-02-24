@@ -7,9 +7,9 @@ tags:
   - ARIA attribute
   - ARIA property
   - aria-checked
-spec-urls: >-
-  https://w3c.github.io/aria/#aria-checked,
-  https://w3c.github.io/aria-practices/#checkbox
+spec-urls:
+  - https://w3c.github.io/aria/#aria-checked
+  - https://w3c.github.io/aria-practices/#checkbox
 ---
 
 The  `aria-checked` attribute indicates the current "checked" state of checkboxes, radio buttons, and other widgets.

@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - option role
-spec-urls: >-
-  https://w3c.github.io/aria/#option,
-  https://w3c.github.io/aria-practices/#Listbox
+spec-urls:
+  - https://w3c.github.io/aria/#option
+  - https://w3c.github.io/aria-practices/#Listbox
 ---
 The `option` role is used for selectable items in a `listbox`.
 

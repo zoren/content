@@ -11,7 +11,9 @@ tags:
   - grid role
   - composite widget role
   - NeedsContent
-spec-urls: https://w3c.github.io/aria/#grid, https://w3c.github.io/aria-practices/#grid
+spec-urls:
+  - https://w3c.github.io/aria/#grid
+  - https://w3c.github.io/aria-practices/#grid
 ---
 The grid role is for a widget that contains one or more rows of cells. The position of each cell is significant and can be focused using keyboard input.
 

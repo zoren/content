@@ -9,9 +9,9 @@ tags:
   - ARIA roles
   - document structure role
   - Tooltip role
-spec-urls: >-
-  https://w3c.github.io/aria/#tooltip,
-  https://w3c.github.io/aria-practices/#tooltip
+spec-urls:
+  - https://w3c.github.io/aria/#tooltip
+  - https://w3c.github.io/aria-practices/#tooltip
 ---
 
 A `tooltip` is a contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus.

@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - document structure role
-spec-urls: >-
-  https://w3c.github.io/aria/#term,
-  https://w3c.github.io/aria-practices/#aria_lh_term_role
+spec-urls:
+  - https://w3c.github.io/aria/#term
+  - https://w3c.github.io/aria-practices/#aria_lh_term_role
 ---
 The `term` role can be used for a word or phrase with an optional corresponding [`definition`](/en-US/docs/Web/Accessibility/ARIA/Roles/definition_role).
 

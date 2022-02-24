@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - document structure role
-spec-urls: >-
-  https://w3c.github.io/aria/#group,
-  https://w3c.github.io/aria-practices/#aria_lh_group_role
+spec-urls:
+  - https://w3c.github.io/aria/#group
+  - https://w3c.github.io/aria-practices/#aria_lh_group_role
 ---
 
 The `group` role identifies a set of user interface objects that is not intended to be included in a page summary or table of contents by assistive technologies.

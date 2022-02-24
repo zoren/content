@@ -9,9 +9,9 @@ tags:
   - ARIA widget
   - Reference
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#tabpanel,
-  https://w3c.github.io/aria-practices/#tabpanel
+spec-urls:
+  - https://w3c.github.io/aria/#tabpanel
+  - https://w3c.github.io/aria-practices/#tabpanel
 ---
 {{draft}}
 

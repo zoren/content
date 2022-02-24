@@ -9,7 +9,9 @@ tags:
   - Reference
   - Role
   - form
-spec-urls: https://w3c.github.io/aria/#form, https://w3c.github.io/aria-practices/#form
+spec-urls:
+  - https://w3c.github.io/aria/#form
+  - https://w3c.github.io/aria-practices/#form
 ---
 The `form` role can be used to identify a group of elements on a page that provide equivalent functionality to an HTML form.
 

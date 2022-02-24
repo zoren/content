@@ -10,9 +10,9 @@ tags:
   - menubar role
   - composite widget role
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#menubar,
-  https://w3c.github.io/aria-practices/#menu
+spec-urls:
+  - https://w3c.github.io/aria/#menubar
+  - https://w3c.github.io/aria-practices/#menu
 ---
 {{draft}}
 <!--

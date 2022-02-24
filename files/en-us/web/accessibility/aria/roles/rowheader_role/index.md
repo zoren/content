@@ -12,9 +12,9 @@ tags:
   - Accessibility
   - ARIA role
   - reference
-spec-urls: >-
-  https://w3c.github.io/aria/#rowheader,
-  https://w3c.github.io/aria-practices/#aria_lh_rowheader_role
+spec-urls:
+  - https://w3c.github.io/aria/#rowheader
+  - https://w3c.github.io/aria-practices/#aria_lh_rowheader_role
 ---
 An element with `role="rowheader"` is a [cell](/en-US/docs/Web/Accessibility/ARIA/Roles/cell_role) containing header information for a [row](/en-US/docs/Web/Accessibility/ARIA/Roles/row_role) within a tabular structure of a [`grid`](/en-US/docs/Web/Accessibility/ARIA/Roles/grid_role), [`table`](/en-US/docs/Web/Accessibility/ARIA/Roles/table_role) or [`treegrid`](/en-US/docs/Web/Accessibility/ARIA/Roles/treegrid_role).
 

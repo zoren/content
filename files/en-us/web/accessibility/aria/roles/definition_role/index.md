@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - document structure role
-spec-urls: >-
-  https://w3c.github.io/aria/#definition,
-  https://w3c.github.io/aria-practices/#aria_lh_definition_role
+spec-urls:
+  - https://w3c.github.io/aria/#definition
+  - https://w3c.github.io/aria-practices/#aria_lh_definition_role
 ---
 
 The `definition` ARIA role indicates the element is a definition of a term or concept.

@@ -10,7 +10,9 @@ tags:
   - ARIA alert
   - ARIA widget
   - Reference
-spec-urls: https://w3c.github.io/aria/#alert, https://w3c.github.io/aria-practices/#log
+spec-urls:
+  - https://w3c.github.io/aria/#alert
+  - https://w3c.github.io/aria-practices/#log
 ---
 
 The `alert` role is for important, and usually time-sensitive, information. The `alert` is a type of [`status`](/en-US/docs/Web/Accessibility/ARIA/Roles/status_role) processed as an atomic live region.

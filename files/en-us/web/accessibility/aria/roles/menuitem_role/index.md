@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#menuitem,
-  https://w3c.github.io/aria-practices/#menu
+spec-urls:
+  - https://w3c.github.io/aria/#menuitem
+  - https://w3c.github.io/aria-practices/#menu
 ---
 {{draft}}
 <!--

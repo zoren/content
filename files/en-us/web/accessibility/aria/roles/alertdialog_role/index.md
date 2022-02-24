@@ -9,9 +9,9 @@ tags:
   - roles
   - Reference
   - ARIA roles
-spec-urls: >-
-  https://w3c.github.io/aria/#alertdialog,
-  https://w3c.github.io/aria-practices/#alertdialog
+spec-urls:
+  - https://w3c.github.io/aria/#alertdialog
+  - https://w3c.github.io/aria-practices/#alertdialog
 ---
 
 The **alertdialog** role is to be used on modal alert dialogs that interrupt a user's workflow to communicate an important message and require a response.

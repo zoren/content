@@ -8,9 +8,9 @@ tags:
   - Reference
   - ARIA roles
   - document structure role
-spec-urls: >-
-  https://w3c.github.io/aria/#math,
-  https://w3c.github.io/aria-practices/#aria_lh_math_role
+spec-urls:
+  - https://w3c.github.io/aria/#math
+  - https://w3c.github.io/aria-practices/#aria_lh_math_role
 ---
 
 The `math` role indicates that the content represents a mathematical expression.

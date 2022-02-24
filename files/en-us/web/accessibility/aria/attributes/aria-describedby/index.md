@@ -8,9 +8,9 @@ tags:
   - ARIA property
   - aria-describedby
   - Reference
-spec-urls: >-
-  https://w3c.github.io/aria/#aria-describedby,
-  https://w3c.github.io/aria-practices/#describing_with_aria-describedby
+spec-urls:
+  - https://w3c.github.io/aria/#aria-describedby
+  - https://w3c.github.io/aria-practices/#describing_with_aria-describedby
 ---
 
 The global `aria-describedby` attribute identifies the element (or elements) that describes the element on which the attribute is set.

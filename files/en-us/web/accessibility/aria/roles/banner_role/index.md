@@ -6,9 +6,9 @@ tags:
   - ARIA role
   - Accessibility
   - Reference
-spec-urls: >-
-  https://w3c.github.io/aria/#banner,
-  https://w3c.github.io/aria-practices/#aria_lh_banner
+spec-urls:
+  - https://w3c.github.io/aria/#banner
+  - https://w3c.github.io/aria-practices/#aria_lh_banner
 ---
 
 The `banner` role is for defining a global site header, which usually includes a logo, company name, search icon, and possibly a slogan, generally at the top of the page.

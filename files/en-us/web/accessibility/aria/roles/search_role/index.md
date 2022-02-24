@@ -8,9 +8,9 @@ tags:
   - Search role
   - ARIA search
   - Accessibility
-spec-urls: >-
-  https://w3c.github.io/aria/#search,
-  https://w3c.github.io/aria-practices/#aria_lh_search
+spec-urls:
+  - https://w3c.github.io/aria/#search
+  - https://w3c.github.io/aria-practices/#aria_lh_search
 ---
 The `search` role is used to identify the search functionality; the section of the page used to search the page, site, or collection of sites.
 

@@ -10,9 +10,9 @@ tags:
   - Treegrid role
   - composite widget role
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#treegrid,
-  https://w3c.github.io/aria-practices/#treegrid
+spec-urls:
+  - https://w3c.github.io/aria/#treegrid
+  - https://w3c.github.io/aria-practices/#treegrid
 ---
 {{draft}}
 

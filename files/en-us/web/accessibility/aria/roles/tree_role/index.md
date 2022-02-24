@@ -10,9 +10,9 @@ tags:
   - Tree role
   - composite widget role
   - NeedsContent
-spec-urls: >-
-  https://w3c.github.io/aria/#tree,
-  https://w3c.github.io/aria-practices/#TreeView
+spec-urls:
+  - https://w3c.github.io/aria/#tree
+  - https://w3c.github.io/aria-practices/#TreeView
 ---
 {{draft}}
 
