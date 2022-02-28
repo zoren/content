@@ -11,7 +11,6 @@ tags:
   - document structure role
   - Accessibility
   - ARIA role
-  - reference
 spec-urls:
   - https://w3c.github.io/aria/#rowheader
   - https://w3c.github.io/aria-practices/#aria_lh_rowheader_role
