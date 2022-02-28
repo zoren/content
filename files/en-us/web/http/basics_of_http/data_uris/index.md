@@ -8,7 +8,6 @@ tags:
   - HTTP
   - Intermediate
   - URL
-browser-compat: http.data-url
 ---
 {{HTTPSidebar}}
 
@@ -110,11 +109,11 @@ lots of text...<p><a name="bottom">bottom</a>?arg=val
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://www.rfc-editor.org/rfc/rfc2397#section-2")}}
 
 ## Browser compatibility
 
-{{compat}}
+{{Compat("http.data-url")}}
 
 ## See also
 

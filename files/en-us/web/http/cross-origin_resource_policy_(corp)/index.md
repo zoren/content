@@ -4,7 +4,6 @@ slug: Web/HTTP/Cross-Origin_Resource_Policy_(CORP)
 tags:
   - HTTP
   - Overview
-  - Reference
   - Security
 ---
 {{HTTPSidebar}}

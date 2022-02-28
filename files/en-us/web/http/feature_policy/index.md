@@ -7,7 +7,6 @@ tags:
   - HTTP
   - Introduction
   - Overview
-  - Reference
   - Security
   - access
   - delegation
