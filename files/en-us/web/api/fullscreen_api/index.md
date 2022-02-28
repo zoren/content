@@ -12,7 +12,6 @@ tags:
   - Guide
   - Intermediate
   - Overview
-  - Reference
   - View
   - fullscreen
   - screen

@@ -9,7 +9,6 @@ tags:
   - EncryptedMediaExtensions
   - NeedsContent
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("Encrypted Media Extensions")}}
 

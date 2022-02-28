@@ -5,7 +5,6 @@ tags:
   - API
   - Encoding
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("Encoding API")}}
 

@@ -6,7 +6,7 @@ tags:
   - Animation
   - Experimental
   - KeyframeEffect()
-  - Reference
+  - Overview
   - animate()
   - setKeyframes()
   - waapi

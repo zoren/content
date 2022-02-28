@@ -8,7 +8,6 @@ tags:
   - MediaMetadata
   - MediaSession
   - Overview
-  - Reference
   - Video
 ---
 {{DefaultAPISidebar("Media Session API")}}

@@ -4,6 +4,7 @@ slug: Web/API/WebHID_API
 tags:
   - API
   - Advanced
+  - Overview
   - WebHID
   - WebHID API
 ---

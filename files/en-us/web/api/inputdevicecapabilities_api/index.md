@@ -5,7 +5,6 @@ tags:
   - API
   - InputDeviceCapabilities
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("InputDeviceCapabilities API")}}{{SeeCompatTable}}
 

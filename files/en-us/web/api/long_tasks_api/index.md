@@ -10,7 +10,6 @@ tags:
   - Overview
   - Performance
   - PerformanceLongTaskTiming
-  - Reference
   - TaskAttributionTiming
   - Web Performance
 ---

@@ -6,7 +6,6 @@ tags:
   - ElementTiming
   - Performance
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("Element Timing")}}
 

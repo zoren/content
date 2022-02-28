@@ -5,7 +5,7 @@ tags:
   - CSS
   - CSS Object Model
   - CSS Declaration
-  - Reference
+  - Overview
 ---
 {{ APIRef("CSSOM") }}
 

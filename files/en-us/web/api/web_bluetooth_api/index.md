@@ -5,7 +5,6 @@ tags:
   - API
   - Bluetooth
   - Overview
-  - Reference
   - Web Bluetooth API
 ---
 {{DefaultAPISidebar("Bluetooth API")}}{{SeeCompatTable}}

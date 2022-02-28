@@ -5,7 +5,6 @@ tags:
   - API
   - Web USB
   - Overview
-  - Reference
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Web USB API")}}
 

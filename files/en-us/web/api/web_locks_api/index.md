@@ -6,7 +6,6 @@ tags:
   - Experimental
   - LockManager
   - Overview
-  - Reference
   - Web Locks API
   - lock
 ---

@@ -9,7 +9,6 @@ tags:
   - MediaStream Recording
   - MediaStream Recording API
   - Overview
-  - Reference
   - Video
 ---
 {{DefaultAPISidebar("MediaStream Recording")}}

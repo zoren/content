@@ -7,7 +7,6 @@ tags:
   - MediaStream
   - MediaStream Image Capture API
   - Overview
-  - Reference
   - Video
 ---
 {{DefaultAPISidebar("Image Capture API")}}{{SeeCompatTable}}

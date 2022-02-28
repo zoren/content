@@ -4,6 +4,7 @@ slug: Web/API/History_API
 tags:
   - API
   - Advanced
+  - Guide
   - HTML DOM
   - History
   - History API

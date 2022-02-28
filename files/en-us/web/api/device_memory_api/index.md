@@ -3,6 +3,7 @@ title: Device Memory API
 slug: Web/API/Device_Memory_API
 tags:
   - Device Memory API
+  - Overview
 ---
 {{DefaultAPISidebar("Device Memory API")}}{{securecontext_header}}{{SeeCompatTable}}
 

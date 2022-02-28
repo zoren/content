@@ -5,7 +5,6 @@ tags:
   - API
   - Web Serial
   - Overview
-  - Reference
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Web Serial API")}}
 

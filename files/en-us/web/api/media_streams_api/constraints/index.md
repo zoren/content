@@ -10,6 +10,7 @@ tags:
   - Media
   - Media Capture and Streams API
   - Media Streams API
+  - Overview
   - Settings
   - Video
   - WebRTC

@@ -4,7 +4,6 @@ slug: Web/API/Trusted_Types_API
 tags:
   - API
   - Overview
-  - Reference
   - Trusted Types
 ---
 {{DefaultAPISidebar("Trusted Types API")}}

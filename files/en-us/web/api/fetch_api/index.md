@@ -5,7 +5,7 @@ tags:
   - API
   - Fetch
   - Landing
-  - Reference
+  - Overview
   - Response
   - XMLHttpRequest
   - request

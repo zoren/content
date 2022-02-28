@@ -4,6 +4,7 @@ slug: Web/API/HTML_Sanitizer_API
 tags:
   - HTML Sanitizer API
   - Landing
+  - Overview
   - Web API
   - sanitize
 ---

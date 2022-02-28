@@ -5,8 +5,8 @@ tags:
   - API
   - Apple Pay
   - Commerce
-  - Guide
   - Intermediate
+  - Overview
   - Payee
   - Payer
   - Payment Handler

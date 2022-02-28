@@ -5,7 +5,6 @@ tags:
   - API
   - EyeDropper
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("EyeDropper API")}}{{SeeCompatTable}}
 

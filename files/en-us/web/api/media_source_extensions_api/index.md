@@ -8,7 +8,7 @@ tags:
   - Landing
   - MSE
   - Media Source Extensions
-  - Reference
+  - Overview
   - Video
   - streaming
 ---

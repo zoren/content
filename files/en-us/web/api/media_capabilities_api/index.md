@@ -6,7 +6,6 @@ tags:
   - Experimental
   - Media Capabilities
   - Overview
-  - Reference
 ---
 {{DefaultAPISidebar("Media Capabilities API")}}
 

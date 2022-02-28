@@ -8,7 +8,6 @@ tags:
   - Keyboard Lock
   - Keyboard Map
   - Overview
-  - Reference
 ---
 {{SeeCompatTable}}{{APIRef("Keyboard API")}}
 

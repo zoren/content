@@ -3,6 +3,7 @@ title: Using files from web applications
 slug: Web/API/File/Using_files_from_web_applications
 tags:
   - Files
+  - Guide
   - HTML5
   - Intermediate
   - NeedsUpdate
