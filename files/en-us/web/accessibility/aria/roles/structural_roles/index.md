@@ -9,8 +9,7 @@ tags:
   - ARIA Role
   - structural Roles
   - ARIA structure
-  - Reference
-spec-urls: https://w3c.github.io/aria/#document_structure_roles
+  - Overview
 ---
 
 ARIA document-structure roles are used to provide a structural description for a section of content.
@@ -61,7 +60,7 @@ Do not use structural roles. Opt for HTML semantic elements instead.
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/aria/#document_structure_roles")}}
 
 ## See Also
 
