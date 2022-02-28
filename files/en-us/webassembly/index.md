@@ -3,9 +3,9 @@ title: WebAssembly
 slug: WebAssembly
 tags:
   - Landing
+  - Overview
   - WebAssembly
   - wasm
-spec-urls: https://webassembly.github.io/spec/js-api/
 ---
 {{WebAssemblySidebar}}
 
@@ -72,7 +72,7 @@ And what's even better is that it is being developed as a web standard via the [
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://webassembly.github.io/spec/js-api/")}}
 
 ## Browser compatibility
 

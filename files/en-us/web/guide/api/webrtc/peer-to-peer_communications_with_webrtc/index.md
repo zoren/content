@@ -11,9 +11,6 @@ tags:
   - RTCPeerConnection
   - WebRTC
   - WebRTC API
-spec-urls:
-  - https://w3c.github.io/mediacapture-main/
-  - https://w3c.github.io/webrtc-pc/
 ---
 {{WebRTCSidebar}}
 
@@ -31,4 +28,4 @@ A high-level description of what happens in an `RTCPeerConnection` was shown in 
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/webrtc-pc/, https://w3c.github.io/mediacapture-main/")}}

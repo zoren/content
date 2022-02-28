@@ -8,8 +8,7 @@ tags:
   - Mobile
   - Motion
   - Orientation
-  - Reference
-spec-urls: https://w3c.github.io/deviceorientation/
+  - Overview
 ---
 {{SeeCompatTable}}
 
@@ -172,7 +171,7 @@ Finally, {{domxref("DeviceMotionEvent.interval","interval")}} represents the int
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/deviceorientation/")}}
 
 ## Browser compatibility
 

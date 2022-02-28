@@ -4,9 +4,9 @@ slug: Web/HTML/Global_attributes
 tags:
   - Attribute
   - HTML
+  - Index
   - Reference
   - Web
-spec-urls: https://html.spec.whatwg.org/multipage/dom.html#global-attributes
 ---
 
 {{HTMLSidebar("Global_attributes")}}
@@ -125,7 +125,7 @@ In addition to the basic HTML global attributes, the following global attributes
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://html.spec.whatwg.org/multipage/dom.html#global-attributes")}}
 
 ## Browser compatibility
 

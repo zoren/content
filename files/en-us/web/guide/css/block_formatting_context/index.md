@@ -8,7 +8,6 @@ tags:
   - NeedsExample
   - Reference
   - Web
-spec-urls: https://drafts.csswg.org/css-display/#block-formatting-context
 ---
 {{ CSSRef }}
 
@@ -197,7 +196,7 @@ Creating a new BFC to avoid the [margin collapsing](/en-US/docs/Web/CSS/CSS_Box_
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://drafts.csswg.org/css-display/#block-formatting-context")}}
 
 ## See also
 

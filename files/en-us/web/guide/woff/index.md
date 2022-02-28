@@ -6,9 +6,6 @@ tags:
   - NeedsMobileBrowserCompatibility
   - WOFF
   - WOFF2
-spec-urls:
-  - https://www.w3.org/TR/WOFF/
-  - https://w3c.github.io/woff/woff2/
 ---
 **WOFF** (the **Web Open Font Format**) is a web font format developed by Mozilla in concert with Type Supply, LettError, and other organizations. It uses a compressed version of the same table-based `sfnt` structure used by TrueType, OpenType, and Open Font Format, but adds metadata and private-use data structures, including predefined fields allowing foundries and vendors to provide license information if desired.
 
@@ -30,7 +27,7 @@ You can use the {{cssxref("@font-face")}} CSS property to use WOFF fonts for tex
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://www.w3.org/TR/WOFF/, https://w3c.github.io/woff/woff2/")}}
 
 ## Browser compatibility
 

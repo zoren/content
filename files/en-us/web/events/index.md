@@ -3,9 +3,8 @@ title: Event reference
 slug: Web/Events
 tags:
   - Event
-  - Overview
   - Reference
-spec-urls: https://html.spec.whatwg.org/multipage/indices.html#events-2
+  - Index
 ---
 [Events](/en-US/docs/Learn/JavaScript/Building_blocks/Events) are fired to notify code of "interesting changes" that may affect code execution. These can arise from user interactions such as using a mouse or resizing a window, changes in the state of the underlying environment (e.g. low battery or media events from the operating system), and other causes.
 
@@ -1408,6 +1407,6 @@ This section lists events that have _their own_ reference pages on MDN. If you a
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://html.spec.whatwg.org/multipage/indices.html#events-2")}}
 
 <section id="Quick_links"><ul><li><a href="/en-US/docs/Learn/JavaScript/Building_blocks/Events">Introduction to events</a></li></ul>{{ListSubpages}}</section>
