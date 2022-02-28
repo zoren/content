@@ -6,7 +6,6 @@ tags:
   - Landing
   - Web API
   - sanitize
-spec-urls: https://wicg.github.io/sanitizer-api/#sanitizer-api
 ---
 {{SeeCompatTable}}{{securecontext_header}}{{DefaultAPISidebar("HTML Sanitizer API")}}
 
@@ -138,7 +137,7 @@ frame_element.replaceChildren(sanitized_frame_tree);
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://wicg.github.io/sanitizer-api/#sanitizer-api")}}
 
 ## Browser compatibility
 

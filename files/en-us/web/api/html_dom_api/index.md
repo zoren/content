@@ -14,7 +14,6 @@ tags:
   - Web
   - Windows
   - hierarchy
-spec-urls: https://html.spec.whatwg.org/multipage/
 ---
 {{DefaultAPISidebar("HTML DOM")}}
 
@@ -367,7 +366,7 @@ The HTML for the form looks like this:
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://html.spec.whatwg.org/multipage/")}}
 
 ## Browser compatibility
 

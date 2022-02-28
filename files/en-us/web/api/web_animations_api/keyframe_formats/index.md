@@ -11,7 +11,6 @@ tags:
   - setKeyframes()
   - waapi
   - web animations api
-spec-urls: https://drafts.csswg.org/web-animations-1/#processing-a-keyframes-argument
 ---
 {{ SeeCompatTable() }}{{ APIRef("Web Animations API") }}
 
@@ -124,7 +123,7 @@ The following special attributes may also be specified:
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://drafts.csswg.org/web-animations-1/#processing-a-keyframes-argument")}}
 
 ## Browser compatibility
 

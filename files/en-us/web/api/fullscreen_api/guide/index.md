@@ -13,7 +13,6 @@ tags:
   - full screen
   - fullscreen
   - screen
-spec-urls: https://fullscreen.spec.whatwg.org/
 ---
 {{DefaultAPISidebar("Fullscreen API")}}
 
@@ -180,7 +179,7 @@ For the moment not all browsers are implementing the unprefixed version of the A
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://fullscreen.spec.whatwg.org/")}}
 
 ## Browser compatibility
 

@@ -6,7 +6,6 @@ tags:
   - Web USB
   - Overview
   - Reference
-spec-urls: https://wicg.github.io/webusb/
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Web USB API")}}
 
@@ -79,7 +78,7 @@ navigator.usb.getDevices().then(devices => {
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://wicg.github.io/webusb/")}}
 
 ## Browser compatibility
 

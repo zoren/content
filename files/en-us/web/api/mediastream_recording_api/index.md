@@ -11,7 +11,6 @@ tags:
   - Overview
   - Reference
   - Video
-spec-urls: https://w3c.github.io/mediacapture-record/#MediaRecorderAPI
 ---
 {{DefaultAPISidebar("MediaStream Recording")}}
 
@@ -128,7 +127,7 @@ To learn more about using the MediaStream Recording API, see [Using the MediaStr
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/mediacapture-record/#MediaRecorderAPI")}}
 
 ## Browser compatibility
 

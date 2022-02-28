@@ -9,7 +9,6 @@ tags:
   - JavaScript
   - WebWorkers
   - Workers
-spec-urls: https://html.spec.whatwg.org/multipage/#workers
 ---
 {{DefaultAPISidebar("Web Workers API")}}
 
@@ -780,7 +779,7 @@ The main thing you _can't_ do in a Worker is directly affect the parent page. Th
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://html.spec.whatwg.org/multipage/#workers")}}
 
 ## See also
 

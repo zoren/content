@@ -9,7 +9,6 @@ tags:
   - MediaStream Recording API
   - NeedsUpdate
   - Tutorial
-spec-urls: https://w3c.github.io/mediacapture-record/#MediaRecorderAPI
 ---
 {{DefaultAPISidebar("MediaStream Recording")}}
 
@@ -260,7 +259,7 @@ Finally, we set an `onclick` handler on the delete button to be a function that 
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/mediacapture-record/#MediaRecorderAPI")}}
 
 ## Browser compatibility
 

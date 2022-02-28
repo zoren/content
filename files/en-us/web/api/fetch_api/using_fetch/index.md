@@ -12,7 +12,6 @@ tags:
   - Response
   - fetch POST & string body
   - request
-spec-urls: https://fetch.spec.whatwg.org/
 ---
 {{DefaultAPISidebar("Fetch API")}}
 
@@ -443,7 +442,7 @@ To use Fetch in unsupported browsers, there is a [Fetch Polyfill](https://github
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://fetch.spec.whatwg.org/")}}
 
 ## Browser compatibility
 

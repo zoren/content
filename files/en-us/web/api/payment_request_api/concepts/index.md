@@ -13,9 +13,6 @@ tags:
   - Payment Method
   - Payment Request API
   - Payments
-spec-urls:
-  - https://w3c.github.io/payment-request/
-  - https://w3c.github.io/payment-method-id/
 ---
 {{securecontext_header}}{{DefaultAPISidebar("Payment Request API")}}
 
@@ -86,7 +83,7 @@ Thus, it's important to note that the {{Glossary("user agent")}} never sends a {
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/payment-request/, https://w3c.github.io/payment-method-id/")}}
 
 ## See also
 

@@ -6,7 +6,6 @@ tags:
   - EyeDropper
   - Overview
   - Reference
-spec-urls: https://wicg.github.io/eyedropper-api/
 ---
 {{DefaultAPISidebar("EyeDropper API")}}{{SeeCompatTable}}
 
@@ -33,7 +32,7 @@ To prevent malicious websites from getting pixel data from a user's screen witho
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://wicg.github.io/eyedropper-api/")}}
 
 ## Browser compatibility
 

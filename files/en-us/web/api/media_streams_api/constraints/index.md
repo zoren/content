@@ -13,7 +13,6 @@ tags:
   - Settings
   - Video
   - WebRTC
-spec-urls: https://w3c.github.io/mediacapture-main/#constrainable-interface
 ---
 {{DefaultAPISidebar("Media Capture and Streams")}}
 
@@ -547,7 +546,7 @@ Here you can see the complete example in action.
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/mediacapture-main/#constrainable-interface")}}
 
 ## Browser compatibility
 

@@ -9,9 +9,6 @@ tags:
   - Keyboard Map
   - Overview
   - Reference
-spec-urls:
-  - https://wicg.github.io/keyboard-map/
-  - https://wicg.github.io/keyboard-lock/
 ---
 {{SeeCompatTable}}{{APIRef("Keyboard API")}}
 
@@ -73,7 +70,7 @@ The codes passed {{domxref('Keyboard.lock')}} and the various methods of the {{d
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://wicg.github.io/keyboard-map/, https://wicg.github.io/keyboard-lock/")}}
 
 ## Browser compatibility
 

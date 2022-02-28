@@ -8,7 +8,6 @@ tags:
   - Web Storage API
   - localStorage
   - sessionStorage
-spec-urls: https://html.spec.whatwg.org/multipage/webstorage.html#webstorage
 ---
 {{DefaultAPISidebar("Web Storage API")}}
 
@@ -199,7 +198,7 @@ Web Storage also provides a couple of simple methods to remove data. We don't us
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://html.spec.whatwg.org/multipage/webstorage.html#webstorage")}}
 
 ## Browser compatibility
 

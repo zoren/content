@@ -6,7 +6,6 @@ tags:
   - Encoding
   - Overview
   - Reference
-spec-urls: https://encoding.spec.whatwg.org/
 ---
 {{DefaultAPISidebar("Encoding API")}}
 
@@ -29,7 +28,7 @@ The API provides four interfaces: {{domxref("TextDecoder")}}, {{domxref("TextEnc
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://encoding.spec.whatwg.org/")}}
 
 ## Browser compatibility
 

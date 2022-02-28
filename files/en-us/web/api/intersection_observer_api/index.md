@@ -11,7 +11,6 @@ tags:
   - Performance
   - Reference
   - Web
-spec-urls: https://w3c.github.io/IntersectionObserver/
 ---
 {{DefaultAPISidebar("Intersection Observer API")}}
 
@@ -582,7 +581,7 @@ There's an even more extensive example at [Timing element visibility with the In
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/IntersectionObserver/")}}
 
 ## Browser compatibility
 

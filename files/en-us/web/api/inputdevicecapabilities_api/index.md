@@ -6,7 +6,6 @@ tags:
   - InputDeviceCapabilities
   - Overview
   - Reference
-spec-urls: https://wicg.github.io/input-device-capabilities/
 ---
 {{DefaultAPISidebar("InputDeviceCapabilities API")}}{{SeeCompatTable}}
 
@@ -33,7 +32,7 @@ myButton.addEventListener('mousedown', function(e) {
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://wicg.github.io/input-device-capabilities/")}}
 
 ## Browser compatibility
 

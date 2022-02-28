@@ -8,7 +8,6 @@ tags:
   - NeedsContent
   - Overview
   - Screen Orientation
-spec-urls: https://w3c.github.io/screen-orientation/
 ---
 {{DefaultAPISidebar("Screen Orientation API")}}{{SeeCompatTable}}
 
@@ -20,7 +19,7 @@ The **Screen Orientation API** provides information about the orientation of the
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/screen-orientation/")}}
 
 ## Browser compatibility
 

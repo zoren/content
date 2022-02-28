@@ -9,7 +9,6 @@ tags:
   - Overview
   - Reference
   - Video
-spec-urls: https://w3c.github.io/mediacapture-image/
 ---
 {{DefaultAPISidebar("Image Capture API")}}{{SeeCompatTable}}
 
@@ -61,7 +60,7 @@ let imageCapture = new ImageCapture(track);
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/mediacapture-image/")}}
 
 ## Browser compatibility
 

@@ -3,7 +3,6 @@ title: Device Memory API
 slug: Web/API/Device_Memory_API
 tags:
   - Device Memory API
-spec-urls: https://w3c.github.io/device-memory/
 ---
 {{DefaultAPISidebar("Device Memory API")}}{{securecontext_header}}{{SeeCompatTable}}
 
@@ -27,7 +26,7 @@ You may also use the [Client Hints](/en-US/docs/Web/HTTP/Client_hints) HTTP Head
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/device-memory/")}}
 
 ## Browser compatibility
 

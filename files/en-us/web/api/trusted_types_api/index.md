@@ -6,7 +6,6 @@ tags:
   - Overview
   - Reference
   - Trusted Types
-spec-urls: https://w3c.github.io/webappsec-trusted-types/dist/spec/
 ---
 {{DefaultAPISidebar("Trusted Types API")}}
 
@@ -73,7 +72,7 @@ Read more about this example, and discover other ways to sanitize input in the a
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/webappsec-trusted-types/dist/spec/")}}
 
 ## Browser compatibility
 

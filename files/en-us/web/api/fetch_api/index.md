@@ -9,7 +9,6 @@ tags:
   - Response
   - XMLHttpRequest
   - request
-spec-urls: https://fetch.spec.whatwg.org/
 ---
 {{DefaultAPISidebar("Fetch API")}}
 
@@ -60,7 +59,7 @@ Browsers have started to add experimental support for the {{DOMxRef("AbortContro
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://fetch.spec.whatwg.org/")}}
 
 ## Browser compatibility
 

@@ -9,7 +9,6 @@ tags:
   - Reference
   - Web Locks API
   - lock
-spec-urls: https://w3c.github.io/web-locks/
 ---
 {{SeeCompatTable}}{{APIRef("Web Locks")}}{{DefaultAPISidebar}}{{securecontext_header}}
 
@@ -110,7 +109,7 @@ A deadlock occurs when a process can no longer make progress because each part i
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://w3c.github.io/web-locks/")}}
 
 ## Browser compatibility
 
