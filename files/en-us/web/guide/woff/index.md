@@ -4,6 +4,7 @@ slug: Web/Guide/WOFF
 tags:
   - Fonts
   - NeedsMobileBrowserCompatibility
+  - Overview
   - WOFF
   - WOFF2
 ---
