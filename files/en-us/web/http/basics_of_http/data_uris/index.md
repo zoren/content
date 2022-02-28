@@ -4,6 +4,7 @@ slug: Web/HTTP/Basics_of_HTTP/Data_URIs
 tags:
   - Base64
   - Guide
+  - Overview
   - HTTP
   - Intermediate
   - URL

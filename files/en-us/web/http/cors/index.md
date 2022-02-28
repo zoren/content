@@ -9,11 +9,11 @@ tags:
   - Fetch API
   - HTTP
   - HTTP Access Controls
+  - Overview
   - Same-origin policy
   - Security
   - XMLHttpRequest
   - l10n:priority
-spec-urls: https://fetch.spec.whatwg.org/#cors-protocol
 ---
 {{HTTPSidebar}}
 
@@ -483,7 +483,7 @@ Examples of this usage can be [found above](#preflighted_requests).
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://fetch.spec.whatwg.org/#cors-protocol")}}
 
 ## Browser compatibility
 

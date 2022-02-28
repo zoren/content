@@ -3,9 +3,9 @@ title: Cross-Origin Resource Policy (CORP)
 slug: Web/HTTP/Cross-Origin_Resource_Policy_(CORP)
 tags:
   - HTTP
+  - Overview
   - Reference
   - Security
-browser-compat: http.headers.Cross-Origin-Resource-Policy
 ---
 {{HTTPSidebar}}
 
@@ -60,7 +60,7 @@ In response, Chromium shipped [Cross-Origin Read Blocking](https://fetch.spec.wh
 
 ## Browser compatibility
 
-{{Compat}}
+{{Compat("http.headers.Cross-Origin-Resource-Policy")}}
 
 ## See also
 

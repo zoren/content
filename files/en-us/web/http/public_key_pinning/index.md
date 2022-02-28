@@ -4,11 +4,11 @@ slug: Web/HTTP/Public_Key_Pinning
 tags:
   - Deprecated
   - Guide
+  - Overview
   - HPKP
   - HTTP
   - Deprecated
   - Security
-browser-compat: http.headers.Public-Key-Pins
 ---
 {{HTTPSidebar}}{{deprecated_header}}
 
@@ -143,7 +143,7 @@ Add the following line to the Web.config file to send the `Public-Key-Pins` head
 
 ## Browser compatibility
 
-{{Compat}}
+{{Compat("http.headers.Public-Key-Pins")}}
 
 ## See also
 

@@ -4,6 +4,7 @@ slug: Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web
 tags:
   - Domain
   - HTTP
+  - Overview
   - Path
   - Scheme
   - Syntax
@@ -15,7 +16,6 @@ tags:
   - port
   - query
   - resources
-spec-urls: https://httpwg.org/specs/rfc7230.html#section-2.7
 ---
 {{HTTPSidebar}}
 
@@ -120,7 +120,7 @@ mailto:help@supercyberhelpdesk.info
 
 ## Specifications
 
-{{Specifications}}
+{{Specifications("https://httpwg.org/specs/rfc7230.html#section-2.7")}}
 
 ## See also
 

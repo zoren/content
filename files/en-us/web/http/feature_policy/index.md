@@ -13,7 +13,6 @@ tags:
   - delegation
   - header
   - permission
-browser-compat: http.headers.Feature-Policy
 ---
 {{HTTPSidebar}}
 
@@ -127,7 +126,7 @@ The features include (see [Features list](/en-US/docs/Web/HTTP/Headers/Feature-P
 
 ## Browser compatibility
 
-{{Compat}}
+{{Compat("http.headers.Feature-Policy")}}
 
 ## See also
 
